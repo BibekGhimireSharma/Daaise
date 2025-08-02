@@ -22,7 +22,7 @@ I created this project to:
 - Supports **custom inputs** and graph configurations
 - Can be adapted for **game maps**, **routing systems**, and **AI agents**
 
----
+-----
 
 ## ⚙️ How It Works
 
